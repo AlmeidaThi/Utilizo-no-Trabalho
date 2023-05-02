@@ -13,6 +13,7 @@ time_inicio = datetime.now()
 
 
 # //////////////////////////////////////////////////////
+# Importa planilha que está na mesma pasta. Importante deixar somente o arquivo que irá identificar a cidade.
 
 import os
 
